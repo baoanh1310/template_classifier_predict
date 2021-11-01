@@ -17,7 +17,7 @@ D:/FPT_DATA/test
 ├───1
 └───2
 ```
-- Then the this command work
+- Then the this command will work
 ```bash
 python main.py --api https://bk-ocr.ai/fpt/predict/ --path D:/FPT_DATA/test
 ```
